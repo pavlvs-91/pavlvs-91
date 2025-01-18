@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🌱 I’m currently studying **"ICT with Intelligent Systems"** on **WEAIiIB Faculty at AGH University of Cracow**, Poland 
 - 🔭 I’m currently working on **restaurant management system** with my classmates.
