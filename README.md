@@ -9,7 +9,7 @@
 - 🚞 I love travelling - recently I've been to Cairo
 
 ### Tech stack & tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,python,sklearn,tensorflow,nodejs,java,cs,postgres,postman,latex,md,git,github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,python,sklearn,tensorflow,nodejs,java,cs,postgres,latex,git,github)](https://skillicons.dev)
 
 📫 How to reach me: gleindekp@gmail.com \
 📰 You may also check [my page](https://pavlvs-91.github.io/)
