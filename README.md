@@ -12,4 +12,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,python,sklearn,tensorflow,nodejs,java,cs,postgres,latex,git,github)](https://skillicons.dev)
 
 📫 How to reach me: gleindekp@gmail.com \
-📰 You may also check [my page](https://pavlvs-91.github.io/personal_website/)
+🔗 LinkedIn: [Paweł Gleindek](https://www.linkedin.com/in/paweł-gleindek-6839ab3b5) \
+📰 You may also check [my portfolio page](https://pavlvs-91.github.io/personal_website/)
