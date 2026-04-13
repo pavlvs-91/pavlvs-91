@@ -1,7 +1,7 @@
 ## Hello there 👋
 ### I'm Paweł, young IT student from Bielsko-Biała, PL
 
-- 🎓 Currently studying **"Computer science and intelligent systems"** on **EAIiIB Faculty** at **AGH University of Cracow**, Poland
+- 🎓 Currently studying **"Computer Science and Intelligent Systems"** on **EAIiIB Faculty** at **AGH University of Cracow**, Poland
 - 💻 Interested in **data science, machine learning and image processing**
 - 🔭 Working on **ML&DL systems** with my classmates - check them below; recently we have created our own programming language **Cb** for writing music scripts
 - 🚀 Always curious and eager to collaborate on other programming projects
