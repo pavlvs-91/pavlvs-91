@@ -5,8 +5,8 @@
 - 💻 Interested in **data science, machine learning and image processing**
 - 🔭 Working on **ML&DL systems** with my classmates - check them below; recently we have created our own programming language **Cb** for writing music scripts
 - 🚀 Always curious and eager to collaborate on other programming projects
-- ⏱ Free time? Playing **piano and keyboards** (check [KopernikBand](https://www.instagram.com/kopernikband/), [Daylight](https://www.instagram.com/daylight.band/), [MzS](https://www.instagram.com/mlodzizserca/)) and creating music
-- 🚞 I love travelling - recently I've been to Cairo
+- ⏱ Free time? Playing **piano, organ, keyboards** (check [KopernikBand](https://www.instagram.com/kopernikband/), [Daylight](https://www.instagram.com/daylight.band/), [MzS](https://www.instagram.com/mlodzizserca/)) and creating music
+- 🚞 I love travelling - recently I've been to Cairo, now heading to Venice and Greece
 
 ### Tech stack & tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,python,sklearn,tensorflow,nodejs,java,cs,postgres,latex,git,github)](https://skillicons.dev)
